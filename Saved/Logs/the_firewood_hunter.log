@@ -1675,3 +1675,23 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-15.18.30:035][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.58 sec (total: 1.94 sec)
 [2023.07.08-15.18.30:050][283]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2023.07.08-15.18.30:050][283]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.07.08-15.18.50:297][361]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.07.08-15.18.50:297][361]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.07.08-15.19.12:707][832]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.07.08-15.19.16:406][187]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/character/dragon_Anim_Armature_take.dragon_Anim_Armature_take
+[2023.07.08-15.19.16:576][187]LogAnimationCompression: Display: Storing compressed animation data for /Game/character/dragon_Anim_Armature_take.dragon_Anim_Armature_take, at AnimationSequence/1cd86bce6218fdb8a5bcf36191e4004746c9f6d1
+[2023.07.08-15.19.16:619][187]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.08-15.19.16:619][187]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-15.19.16:673][187]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-15.19.16:673][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-15.19.59:180][293]LogContentBrowser: Attempting asset rename: dragon_Anim_Armature_idle2 -> dragon_Anim_Armature_idle2
+[2023.07.08-15.19.59:184][293]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/character/dragon_Anim_Armature_idle2.dragon_Anim_Armature_idle2
+[2023.07.08-15.19.59:191][293]LogAnimationCompression: Display: Storing compressed animation data for /Game/character/dragon_Anim_Armature_idle2.dragon_Anim_Armature_idle2, at AnimationSequence/e4eba57b7efcf32cb87272b9cec61ba9b2b10aa4
+[2023.07.08-15.19.59:208][293]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.08-15.19.59:208][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-15.19.59:248][293]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-15.19.59:248][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-15.20.02:842][625]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.08-15.20.02:842][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-15.20.02:881][625]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-15.20.02:881][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
