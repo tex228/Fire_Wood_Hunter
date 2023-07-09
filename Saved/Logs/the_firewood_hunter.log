@@ -2319,3 +2319,52 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.09-12.06.11:441][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 782 ms (total: 3.58 sec)
 [2023.07.09-12.06.11:448][ 33]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2023.07.09-12.06.11:448][ 33]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.07.09-12.07.38:449][214]LogLinker: Warning: [AssetLog] D:\FirewoodHunter\Fire_Wood_Hunter\Content\Materials\01\M_Shading_01_Color_Inst.uasset: Failed to load '/Game/Optimized_Mobile_Shading/Materials/01/M_Shading_01_Color': Can't find file.
+[2023.07.09-12.07.38:449][214]LogLinker: Warning: [AssetLog] D:\FirewoodHunter\Fire_Wood_Hunter\Content\Materials\01\M_Shading_01_Color_Inst.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Optimized_Mobile_Shading/Materials/01/M_Shading_01_Color'
+[2023.07.09-12.07.38:449][214]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/01/M_Shading_01_Color_Inst.M_Shading_01_Color_Inst
+[2023.07.09-12.07.38:451][214]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.09-12.07.38:451][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.09-12.07.38:460][214]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2023.07.09-12.07.39:690][214]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2023.07.09-12.07.42:148][503]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.07.09-12.07.42:148][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.09-12.07.49:755][384]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/terain/M_LowpolyLandscape.M_LowpolyLandscape
+[2023.07.09-12.07.49:761][384]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.09-12.07.49:761][384]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.09-12.07.49:768][384]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2023.07.09-12.07.50:955][384]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.09-12.07.50:955][384]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.09-12.07.50:955][384]MaterialEditorStats: Shader Count: 0
+[2023.07.09-12.07.50:958][384]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: ================================================
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: Total job queries 443, among them cache hits 258 (58.24%)
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: Tracking 171 distinct input hashes that result in 104 distinct outputs (60.82%)
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: RAM used: 2,53 MiB of 819,20 MiB budget. Usage: 0.31%
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: Shaders Compiled: 49
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: Jobs assigned 63, completed 49 (77.78%)
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: Average time worker was idle: 172.20 s
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: Time job spent in pending queue: average 0.60 s, longest 1.18 s
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: Job execution time: average 3.31 s, max 9.98 s
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: Job life time (pending + execution): average 3.82 s, max 10.98
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.87 s
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: Jobs were issued in 39 batches (only local compilation was used), average 1.62 jobs/batch
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: Average processing rate: 1.97 jobs/sec
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: Total thread time: 35,906 s
+[2023.07.09-12.07.51:931][487]LogShaderCompilers: Display: Total thread preprocess time: 1,352 s
+[2023.07.09-12.07.51:932][487]LogShaderCompilers: Display: Percentage time preprocessing: 3.77%
+[2023.07.09-12.07.51:932][487]LogShaderCompilers: Display: Effective parallelization: 1.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2023.07.09-12.07.51:932][487]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.09-12.07.51:932][487]LogShaderCompilers: Display: TMobileBasePassPSFNoLightMapPolicyHDRLinear64EnableLocalLights (compiled    1 times, average 2.61 sec, max 2.61 sec, min 2.61 sec)
+[2023.07.09-12.07.51:932][487]LogShaderCompilers: Display: TMobileBasePassPSFMobileDirectionalLightAndSHIndirectPolicyHDRLinear64EnableLocalLights (compiled    1 times, average 2.30 sec, max 2.30 sec, min 2.30 sec)
+[2023.07.09-12.07.51:932][487]LogShaderCompilers: Display: TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicyHDRLinear64EnableLocalLights (compiled    1 times, average 2.22 sec, max 2.22 sec, min 2.22 sec)
+[2023.07.09-12.07.51:932][487]LogShaderCompilers: Display: TMobileBasePassPSFMobileDirectionalLightAndSHIndirectPolicyHDRLinear64SkylightEnableLocalLights (compiled    1 times, average 2.22 sec, max 2.22 sec, min 2.22 sec)
+[2023.07.09-12.07.51:932][487]LogShaderCompilers: Display: TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicyHDRLinear64SkylightEnableLocalLights (compiled    1 times, average 2.19 sec, max 2.19 sec, min 2.19 sec)
+[2023.07.09-12.07.51:932][487]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.09-12.07.51:932][487]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.83% of total time (compiled    4 times, average 0.79 sec, max 0.85 sec, min 0.70 sec)
+[2023.07.09-12.07.51:932][487]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.71% of total time (compiled    4 times, average 0.78 sec, max 0.83 sec, min 0.74 sec)
+[2023.07.09-12.07.51:932][487]LogShaderCompilers: Display: TMobileBasePassPSFNoLightMapPolicyHDRLinear64EnableLocalLights - 7.28% of total time (compiled    1 times, average 2.61 sec, max 2.61 sec, min 2.61 sec)
+[2023.07.09-12.07.51:932][487]LogShaderCompilers: Display: TMobileBasePassPSFMobileDirectionalLightAndSHIndirectPolicyHDRLinear64EnableLocalLights - 6.39% of total time (compiled    1 times, average 2.30 sec, max 2.30 sec, min 2.30 sec)
+[2023.07.09-12.07.51:932][487]LogShaderCompilers: Display: TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicyHDRLinear64EnableLocalLights - 6.19% of total time (compiled    1 times, average 2.22 sec, max 2.22 sec, min 2.22 sec)
+[2023.07.09-12.07.51:932][487]LogShaderCompilers: Display: ================================================
