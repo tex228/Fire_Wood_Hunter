@@ -1974,3 +1974,16 @@ Script Stack (1 frames) :
 [2023.07.09-13.57.12:056][367]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
 [2023.07.09-13.57.12:056][367]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.07.09-13.57.12:056][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.09-14.05.50:223][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.07.09-14.05.50:522][920]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1
+[2023.07.09-14.05.50:523][920]LogSavePackage: Moving '../../../../Fire_Wood_Hunter/Saved/ThirdPersonExampleMap_Auto1790A924D4F3720822CAF2F97C1C962AF.tmp' to '../../../../Fire_Wood_Hunter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2023.07.09-14.05.50:530][920]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.327
+[2023.07.09-14.05.50:530][920]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.327
+[2023.07.09-14.05.50:531][920]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2023.07.09-14.05.50:531][920]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.09-14.05.50:561][920]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C]
+[2023.07.09-14.05.50:573][920]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2023.07.09-14.05.50:573][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2023.07.09-14.05.50:581][920]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1
+[2023.07.09-14.05.50:581][920]LogSavePackage: Moving '../../../../Fire_Wood_Hunter/Saved/ThirdPersonCharacter_Auto1539CB96B4D54C0F6CC3570B95DFAB2B9.tmp' to '../../../../Fire_Wood_Hunter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2023.07.09-14.05.50:582][920]LogFileHelpers: Auto-saving content packages took 0.051
