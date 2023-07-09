@@ -1120,3 +1120,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.09-13.46.34:692][  0]LogAutomationController: Ignoring very large delta of 18133710.87 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.07.09-13.46.36:848][  2]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2023.07.09-13.46.37:429][  4]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.07.09-13.48.00:312][253]LogDerivedDataCache: C:/Users/Mazda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.126 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3077 files in 4290 folders with total size 23 MiB.
