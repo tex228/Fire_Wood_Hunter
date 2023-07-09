@@ -1639,3 +1639,23 @@ Script Stack (1 frames) :
 [2023.07.09-13.50.28:049][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 402 ms
 [2023.07.09-13.50.28:054][208]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2023.07.09-13.50.28:054][208]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.07.09-13.50.47:101][908]LogViewport: Scene viewport resized to 1913x1254, mode Windowed.
+[2023.07.09-13.50.47:113][909]LogViewport: Scene viewport resized to 1914x1254, mode Windowed.
+[2023.07.09-13.50.47:123][910]LogViewport: Scene viewport resized to 1915x1254, mode Windowed.
+[2023.07.09-13.50.47:132][911]LogViewport: Scene viewport resized to 1917x1254, mode Windowed.
+[2023.07.09-13.50.47:144][912]LogViewport: Scene viewport resized to 1919x1254, mode Windowed.
+[2023.07.09-13.50.47:162][913]LogViewport: Scene viewport resized to 1922x1254, mode Windowed.
+[2023.07.09-13.50.47:175][914]LogViewport: Scene viewport resized to 1924x1254, mode Windowed.
+[2023.07.09-13.50.47:201][915]LogViewport: Scene viewport resized to 1927x1254, mode Windowed.
+[2023.07.09-13.50.47:214][916]LogViewport: Scene viewport resized to 1928x1254, mode Windowed.
+[2023.07.09-13.50.47:233][917]LogViewport: Scene viewport resized to 1929x1254, mode Windowed.
+[2023.07.09-13.50.47:268][921]LogViewport: Scene viewport resized to 1930x1254, mode Windowed.
+[2023.07.09-13.55.12:777][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.09-13.55.12:823][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.07.09-13.55.13:109][ 75]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2023.07.09-13.55.13:109][ 75]LogSavePackage: Moving '../../../../Fire_Wood_Hunter/Saved/ThirdPersonExampleMap9CF3A4AF4D918E1226F8A6A9C1049321.tmp' to '../../../../Fire_Wood_Hunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.07.09-13.55.13:118][ 75]LogFileHelpers: No new changes to save!
+[2023.07.09-13.55.13:118][ 75]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.314
+[2023.07.09-13.55.13:125][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 347 ms (total: 750 ms)
+[2023.07.09-13.55.13:129][ 75]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.07.09-13.55.13:129][ 75]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
